@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Riley Latham
+- 👀 I’m interested in applied microeconomics, more specifically the intersection of Labor and Education.
+- 🌱 I’m currently learning economic theory at the University of California Davis.
+- 💞️ I’m looking to collaborate on all small projects that would help bolster my python abilities in a software development catagory.
+- 📫 How to reach me shoot me an email at lathamri@msu.edu if you're interested in reaching out about interesting work!
